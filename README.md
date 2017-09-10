@@ -15,7 +15,7 @@ Ruby/Numo modules:
 * [Numo::Linalg](https://github.com/ruby-numo/linalg) - Linear Algebra library (Interface to [BLAS](http://www.netlib.org/blas/)/[LAPACK](http://www.netlib.org/lapack/)).
 * [Numo::GSL](https://github.com/ruby-numo/gsl) - Ruby interface for [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/).
 * [Numo::FFTE](https://github.com/ruby-numo/ffte) - Ruby interface for [FFTE (A Fast Fourier Transform library with radix-2,3,5)](http://www.ffte.jp/).
-* [Numo::Gnuplot](https://github.com/ruby-numo/gnuplot) - Simple and easy-to-use Gnuplot interface - [Numo::Gnuplot Demo](https://github.com/ruby-numo/gnuplot-demo)
+* [Numo::Gnuplot](https://github.com/ruby-numo/gnuplot) - Simple and easy-to-use Gnuplot interface ([Demo repository](https://github.com/ruby-numo/gnuplot-demo))
 
 Related presentation:
 
