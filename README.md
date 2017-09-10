@@ -4,11 +4,10 @@
 
 Background information of my talk / 事前情報
 
-## Main topic: [Ruby/Numo](https://github.com/ruby-numo)
+## Main topic: [Ruby/Numo project](https://github.com/ruby-numo)
 
 * [Numo::NArray](https://github.com/ruby-numo/narray)
-    * [Numo::NArray概要](https://github.com/ruby-numo/narray/wiki/Numo::NArray%E6%A6%82%E8%A6%81) (wiki in Japanese)
-        * Brief Description of Numo::NArray features.
+    * [Numo::NArray概要](https://github.com/ruby-numo/narray/wiki/Numo::NArray%E6%A6%82%E8%A6%81) (wiki in Japanese) - Brief Description of Numo::NArray features.
     * [Numo::NArray vs numpy](https://github.com/ruby-numo/narray/wiki/Numo-vs-numpy)
 
 * [Numo::Linalg](https://github.com/ruby-numo/linalg) - Linear Algebra library with [BLAS](http://www.netlib.org/blas/)/[LAPACK](http://www.netlib.org/lapack/).
