@@ -17,7 +17,7 @@ Ruby/Numo modules:
 * [Numo::FFTE](https://github.com/ruby-numo/ffte) - Ruby interface for [FFTE (A Fast Fourier Transform library with radix-2,3,5)](http://www.ffte.jp/).
 * [Numo::Gnuplot](https://github.com/ruby-numo/gnuplot) - Simple and easy-to-use Gnuplot interface - [Numo::Gnuplot Demo](https://github.com/ruby-numo/gnuplot-demo)
 
-Presentation:
+Related presentation:
 
 * [Ruby科学データ処理ツールの開発 NArrayとPwrake](https://www.slideshare.net/masa16tanaka/narray-pwrake) (slide in Japanese)
     * Background of NArray development including new design for Numo::NArray.
