@@ -1,8 +1,8 @@
-= [Progress of Ruby/Numo: Numerical Computing for Ruby](http://rubykaigi.org/2017/presentations/masa16tanaka.html)
+# [Progress of Ruby/Numo: Numerical Computing for Ruby](http://rubykaigi.org/2017/presentations/masa16tanaka.html)
 
 Speaker: Masahiro TANAKA
 
-== Background Information 事前情報
+## Background Information 事前情報
 
 * This talk is about my project: [Ruby/Numo](https://github.com/ruby-numo).
 
