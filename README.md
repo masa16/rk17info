@@ -8,11 +8,12 @@ Speaker: Masahiro TANAKA
 
 * Links to information about Ruby/Numo:
     * [Numo::NArray](https://github.com/ruby-numo/narray)
-    * [Numo::NArray Overview](https://github.com/ruby-numo/narray/wiki/Numo::NArray%E6%A6%82%E8%A6%81) (in Japanese)
+    * Numo::NArray Overview: [Numo::NArray概要](https://github.com/ruby-numo/narray/wiki/Numo::NArray%E6%A6%82%E8%A6%81) (wiki in Japanese)
 
-    * Background of NArray development including new desgin for Numo::NArray: [Ruby科学データ処理ツールの開発 NArrayとPwrake](https://www.slideshare.net/masa16tanaka/narray-pwrake)
+    * [Ruby科学データ処理ツールの開発 NArrayとPwrake](https://www.slideshare.net/masa16tanaka/narray-pwrake) (slide in Japanese)
+        * Background of NArray development including new desgin for Numo::NArray.
 
 * Links to the first NArray (the basis of Numo::NArray)
     * [NArray home page](https://masa16.github.io/narray/)
     * [RubyKaigi2010 talk](http://rubykaigi.org/2010/ja/events/83/), [slide](https://www.slideshare.net/masa16tanaka/narray-and-scientific-computing-with-ruby)
-    * [「それ NArray でできるよ」 by tmaedaさん](https://speakerdeck.com/tmaedax/sore-narray-dedekiruyo)
+    * [「それ NArray でできるよ」 by tmaedaさん](https://speakerdeck.com/tmaedax/sore-narray-dedekiruyo) (slide in Japanese)
