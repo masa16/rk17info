@@ -6,7 +6,7 @@ Background information of my talk / 事前情報
 
 ## Main topic: [Ruby/Numo project](https://github.com/ruby-numo)
 
-* [Numo::NArray](https://github.com/ruby-numo/narray)
+* [Numo::NArray](https://github.com/ruby-numo/narray) - N-dimensional Numerical Array library
     * [Numo::NArray概要](https://github.com/ruby-numo/narray/wiki/Numo::NArray%E6%A6%82%E8%A6%81) (wiki in Japanese) - Brief description of Numo::NArray features.
     * [Numo::NArray vs numpy](https://github.com/ruby-numo/narray/wiki/Numo-vs-numpy)
 
