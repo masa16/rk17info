@@ -4,7 +4,7 @@
 
 Background information / 事前資料
 
-## Links to use cases / Ruby/Numo使用例へのリンク (Blogs in Japanese)
+## Links to use cases / Ruby/Numo使用例へのリンク (Blog posts in Japanese)
 
 * [MF](http://medfreak.info/)
     * [【Ruby】numo-gnuplotで遊ぶ](http://medfreak.info/?p=2492)
