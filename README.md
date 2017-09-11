@@ -35,7 +35,7 @@ Related presentation:
     * [numo-gnuplot playground](http://medfreak.info/?p=4018)
 
 * [Tech Blog by Akanuma Hiroaki](http://blog.akanumahiroaki.com/)
-    「[ゼロから作るDeep Learning](https://www.oreilly.co.jp/books/9784873117584/)」のコードをRuby/Numoに移植してくれました。
+- 「[ゼロから作るDeep Learning](https://www.oreilly.co.jp/books/9784873117584/)」のRuby/Numoへの移植
     * [NumPyとNumo::NArray, Matrixでの演算の比較](http://blog.akanumahiroaki.com/entry/2017/03/10/140000)
     * [3層ニューラルネットワーク実装](http://blog.akanumahiroaki.com/entry/2017/03/17/090000)
     * [MNISTデータセットをNArray配列として扱う](http://blog.akanumahiroaki.com/entry/2017/03/23/091000)
