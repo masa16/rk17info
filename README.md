@@ -22,13 +22,13 @@ Related presentation:
 * [Ruby科学データ処理ツールの開発 NArrayとPwrake](https://www.slideshare.net/masa16tanaka/narray-pwrake) (slide in Japanese)
     * Background of NArray development including new design for Numo::NArray.
 
-### [Links to use cases / 使用例へのリンク](https://github.com/masa16/rk17info/blob/master/links.md) (in Japanese)
+[Links to use cases / 使用例へのリンク](https://github.com/masa16/rk17info/blob/master/links.md) (in Japanese)
 
 ## Information of the first NArray (inherited by Numo::NArray)
 * [NArray home page](https://masa16.github.io/narray/)
 * [RubyKaigi 2010 talk](http://rubykaigi.org/2010/ja/events/83/)
     * [slide](https://www.slideshare.net/masa16tanaka/narray-and-scientific-computing-with-ruby)
 
-### External Sources / 外部ソース:
+External Sources / 外部ソース:
 
 * [「それ NArray でできるよ」 by tmaedaさん](https://speakerdeck.com/tmaedax/sore-narray-dedekiruyo) (slide in Japanese)
