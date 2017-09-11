@@ -6,7 +6,7 @@ Background information / 事前資料
 
 ## Main topic: [Ruby/Numo project](https://github.com/ruby-numo)
 
-Ruby/Numo modules:
+### Ruby/Numo modules:
 
 * [Numo::NArray](https://github.com/ruby-numo/narray) - N-dimensional Numerical Array library.
     * [Numo::NArray概要](https://github.com/ruby-numo/narray/wiki/Numo::NArray%E6%A6%82%E8%A6%81) (wiki in Japanese) - Brief description of Numo::NArray features.
@@ -22,7 +22,7 @@ Related presentation:
 * [Ruby科学データ処理ツールの開発 NArrayとPwrake](https://www.slideshare.net/masa16tanaka/narray-pwrake) (slide in Japanese)
     * Background of NArray development including new design for Numo::NArray.
 
-External Sources / 外部ソース:
+### External Sources / 外部ソース:
 
 * [MF](http://medfreak.info/)
     * [【Ruby】numo-gnuplotで遊ぶ](http://medfreak.info/?p=2492)
@@ -51,6 +51,6 @@ External Sources / 外部ソース:
 * [RubyKaigi 2010 talk](http://rubykaigi.org/2010/ja/events/83/)
     * [slide](https://www.slideshare.net/masa16tanaka/narray-and-scientific-computing-with-ruby)
 
-External Sources / 外部ソース:
+### External Sources / 外部ソース:
 
 * [「それ NArray でできるよ」 by tmaedaさん](https://speakerdeck.com/tmaedax/sore-narray-dedekiruyo) (slide in Japanese)
