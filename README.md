@@ -22,7 +22,7 @@ Related presentation:
 * [Ruby科学データ処理ツールの開発 NArrayとPwrake](https://www.slideshare.net/masa16tanaka/narray-pwrake) (slide in Japanese)
     * Background of NArray development including new design for Numo::NArray.
 
-### [External Links / 外部リンク](https://github.com/masa16/rk17info/blob/master/links.md) (in Japanese)
+### [Links to use cases / 使用例へのリンク](https://github.com/masa16/rk17info/blob/master/links.md) (in Japanese)
 
 ## Information of the first NArray (inherited by Numo::NArray)
 * [NArray home page](https://masa16.github.io/narray/)
